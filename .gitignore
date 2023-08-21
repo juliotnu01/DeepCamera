@@ -13,3 +13,6 @@ test/node_modules/*
 docker/db
 volumes
 src/yolov7_reid/src/models/mgn_R50-ibn.onnx
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
